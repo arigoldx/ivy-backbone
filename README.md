@@ -2,9 +2,9 @@ ivy-backbone
 ============
 
 Originally written in PHP ivy was rewritten in Ruby on Rails. Here,
-ivy is written in backbone + express (node) + mongoDB (eventually
-Hadoop & friends). While there are clearly other tools necessary, the
-focus of this port is learning backbone.
+ivy is being written in backbone + express (node) + mongoDB
+(eventually Hadoop & friends) + requireJS. While there are clearly
+other tools necessary, the focus of this port is learning backbone.
 
 [nb. While ivy was used daily both by myself and other teachers, I
 should stress that, in terms of the general public, ivy is [beta
